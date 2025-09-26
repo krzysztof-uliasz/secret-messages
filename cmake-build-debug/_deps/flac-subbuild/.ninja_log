@@ -1,0 +1,21 @@
+# ninja log v6
+1	56	7806117647244730	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	d2e2a65a03da6b5
+1	56	7806117647244730	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	d2e2a65a03da6b5
+56	2466	7806117671344020	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	2a01923cee15b16c
+56	2466	7806117671344020	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	2a01923cee15b16c
+2466	2578	7806117671394064	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	bcebcf27cd8e14df
+2466	2578	7806117671394064	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	bcebcf27cd8e14df
+2578	2642	7806117673104498	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	abbe9a529088981
+2578	2642	7806117673104498	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	abbe9a529088981
+2642	2695	7806117673635498	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f0b3fa1027cc1c69
+2642	2695	7806117673635498	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f0b3fa1027cc1c69
+2695	2746	7806117674138311	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	9caa198748a7d556
+2695	2746	7806117674138311	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	9caa198748a7d556
+2746	2800	7806117674694419	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	d805f739ccad5343
+2746	2800	7806117674694419	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	d805f739ccad5343
+2801	2854	7806117675227047	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	ea4ba814dc467e77
+2801	2854	7806117675227047	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	ea4ba814dc467e77
+2854	2926	7806117675952815	CMakeFiles/flac-populate-complete	782385ac43e6ae38
+2854	2926	7806117675952815	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	782385ac43e6ae38
+2854	2926	7806117675952815	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	782385ac43e6ae38
+2854	2926	7806117675952815	C:/Users/kris7/CLionProjects/picturegobrrrrr/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	782385ac43e6ae38
